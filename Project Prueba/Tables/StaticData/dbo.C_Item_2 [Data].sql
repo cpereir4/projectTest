@@ -1,0 +1,2 @@
+INSERT [dbo].[C_Item_2] ([i_id], [i_im_id], [i_name], [i_price], [i_data]) VALUES (1, 1, N'Cecilia                 ', CAST(22.67 AS Numeric(5, 2)), N'testt                                             ')
+INSERT [dbo].[C_Item_2] ([i_id], [i_im_id], [i_name], [i_price], [i_data]) VALUES (2, 5298, N'Marco                   ', CAST(59.31 AS Numeric(5, 2)), N'testt2                                            ')
