@@ -13,7 +13,9 @@ CREATE TABLE [dbo].[C_District] (
 		[d_zip]           [char](9) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
 		[d_tax]           [numeric](4, 4) NULL,
 		[d_ytd]           [numeric](12, 2) NULL,
-		[d_next_o_id]     [int] NULL
+		[d_next_o_id]     [int] NULL,
+		[D_TEST]          [int] NOT NULL,
+		[D_TEST22]        [int] NOT NULL
 )
 GO
 CREATE UNIQUE CLUSTERED INDEX [C_District_I1]
