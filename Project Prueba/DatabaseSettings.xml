@@ -3,5 +3,5 @@
   <ServerVersion>Sql2012</ServerVersion>
   <ServerName>WIN7PRO64</ServerName>
   <DatabaseName>quest_dev</DatabaseName>
-  <DatabaseInformation Version="12" />
+  <DatabaseInformation Version="13" />
 </DatabaseSettings>
